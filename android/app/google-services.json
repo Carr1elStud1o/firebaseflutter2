@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496209785945",
+    "project_id": "funciona-bfcdb",
+    "storage_bucket": "funciona-bfcdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496209785945:android:e21d8dd40f35692889ad48",
+        "android_client_info": {
+          "package_name": "com.example.firebaseflutter2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496209785945-puaoeccjublhrfouvvr8e0gi1ahr2o32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6mtR4R97B4_66YX-5cqX1xzVjExOouns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496209785945-puaoeccjublhrfouvvr8e0gi1ahr2o32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
